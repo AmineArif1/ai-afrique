@@ -81,7 +81,7 @@
           </div>
         </div>
       </div> -->
-      <div class="col-12 col-sm-6 col-lg-3">
+      <!-- <div class="col-12 col-sm-6 col-lg-3">
         <div class="single-footer-widget mb-60 wow fadeInUp" data-wow-delay="300ms">
 
           <h5 class="widget-title">Gallery</h5>
@@ -95,7 +95,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </div>

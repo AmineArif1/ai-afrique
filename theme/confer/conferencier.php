@@ -10,6 +10,9 @@
       <div class="row">
 
         <div class="col-12">
+        <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
+                        <!-- This is just some spacing  -->
+            </div>
           <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
             <p>Our Speakings</p>
             <h4>Who’s speaking</h4>
