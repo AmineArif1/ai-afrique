@@ -13,7 +13,7 @@
   <?php include_once('header.php');?>
 
 
-<!-- Section Welcome -->
+  <!-- Section Welcome -->
   <section class="welcome-area">
     <div class="welcome-slides owl-carousel">
 
@@ -63,8 +63,8 @@
 
     <div class="icon-scroll" id="scrollDown"></div>
   </section>
-<!-- End Section Welcome -->
-<!-- Section About -->
+  <!-- End Section Welcome -->
+  <!-- Section About -->
   <section class="about-us-countdown-area section-padding-100-0" id="about">
     <div class="container">
       <div class="row align-items-center">
@@ -80,7 +80,8 @@
               à l’intégration et le déploiement de l’Intelligence Artifcielle dans le système d’éducation. L’objectif
               principal de ce symposium est de faire avancer l’usage de l’Intelligence Artifcielle dans les différents
               domaines d’actualité afin de surmonter les défis actuels et futurs de l’Afrique.</p>
-            <a href="index.php#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Inscription & Soumission </a>
+            <a href="index.php#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Inscription &
+              Soumission </a>
           </div>
         </div>
 
@@ -111,9 +112,9 @@
       </div>
     </div>
   </section>
-<!-- End Section About -->
-<!-- Section Soumission  -->
-<section class="about-us-countdown-area section-padding-100-0" id="about">
+  <!-- End Section About -->
+  <!-- Section Soumission  -->
+  <section class="about-us-countdown-area section-padding-100-0" id="about">
     <div class="container">
       <div class="row align-items-center">
 
@@ -122,10 +123,13 @@
             <h6 class="wow fadeInUp" data-wow-delay="300ms">Soumission</h6>
             <h3 class="wow fadeInUp" data-wow-delay="300ms">Soumission</h3>
             <p class="wow fadeInUp" data-wow-delay="300ms">
-              Les auteurs sont invités à soumettre leur articles à IA-Afrique 2022 par le biais du système de <u><a href="index.php" style="color: white;">soumission en ligne</a></u>.<br>    
-              Veuillez télécharger la <u><a href="index.php" style="color: white;">template</a></u>.<br>    
-              Soumission de projets : veuillez remplir <u><a href="index.php" style="color: white;">le formulaire</a></u>.</p>
-            <a href="index.php#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Inscription & Soumission </a>
+              Les auteurs sont invités à soumettre leur articles à IA-Afrique 2022 par le biais du système de <u><a
+                  href="index.php" style="color: white;">soumission en ligne</a></u>.<br>
+              Veuillez télécharger la <u><a href="index.php" style="color: white;">template</a></u>.<br>
+              Soumission de projets : veuillez remplir <u><a href="index.php" style="color: white;">le
+                  formulaire</a></u>.</p>
+            <a href="index.php#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Inscription &
+              Soumission </a>
           </div>
         </div>
 
@@ -137,8 +141,8 @@
       </div>
     </div>
   </section>
-<!-- End Section Soumission  -->
-<!-- Section Dates -->
+  <!-- End Section Soumission  -->
+  <!-- Section Dates -->
   <section class="our-schedule-area section-padding-100">
     <div class="container">
       <div class="row">
@@ -443,7 +447,7 @@
       </div>
     </div>
   </section>
-<!-- End Section Dates -->
+  <!-- End Section Dates -->
   <!-- I need no tickets  -->
   <!-- <section class="our-ticket-pricing-table-area bg-img bg-gradient-overlay section-padding-100-0 jarallax"
     style="background-image: url(img/bg-img/14.jpg);">
@@ -525,7 +529,7 @@
     </div>
   </section> -->
 
-<!-- Section Sponsors  -->
+  <!-- Section Sponsors  -->
   <section class="our-sponsor-client-area section-padding-100">
     <div class="container">
       <div class="row">
@@ -535,7 +539,8 @@
             <p>Partenaires &amp; Sponsors</p>
             <h4>SPONSOR OFFICIEL</h4>
             <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
-              <a href="index.php#"><img src="img/res/logos/capgemini.png" alt="what is happening" height="300" width="300"></a>
+              <a href="index.php#"><img src="img/res/logos/capgemini.png" alt="what is happening" height="300"
+                  width="300"></a>
             </div>
           </div>
         </div>
@@ -584,7 +589,7 @@
 
           </div>
         </div>
-      <!-- Some train of text going under the sponsors -->
+        <!-- Some train of text going under the sponsors -->
         <!-- <div class="col-12">
           <div class="our-client-area mt-100 wow fadeInUp" data-wow-delay="300ms">
 
@@ -667,8 +672,8 @@
       </div>
     </div>
   </section>
-<!-- End Section Sponsors -->
-<!-- I don't need a Blog -->
+  <!-- End Section Sponsors -->
+  <!-- I don't need a Blog -->
   <!-- <section class="our-blog-area bg-img bg-gradient-overlay section-padding-100-60"
     style="background-image:url(img/bg-img/x17.jpg.pagespeed.ic.flFTxM3Mbj.jpg)">
     <div class="container">
@@ -775,7 +780,8 @@
 
             <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
               <p>Email:</p>
-              <h6 ><a style="color:white;font-size:medium;" href="https://preview.colorlib.com/cdn-cgi/l/email-protection" class="__cf_email__"
+              <h6><a style="color:white;font-size:medium;"
+                  href="https://preview.colorlib.com/cdn-cgi/l/email-protection" class="__cf_email__"
                   data-cfemail="9bf8f4f5fdfee9dbfcf6faf2f7b5f8f4f6">ia-afrique@ensam-casa.ma</a></h6>
             </div>
 
@@ -796,19 +802,22 @@
 
                     <div class="col-12 col-lg-6">
                       <div class="form-group">
-                        <input type="text" class="form-control mb-30" name="first-name" id="name" placeholder="Prénom" required>
+                        <input type="text" class="form-control mb-30" name="first-name" id="name" placeholder="Prénom"
+                          required>
                       </div>
                     </div>
 
                     <div class="col-12 col-lg-6">
                       <div class="form-group">
-                        <input type="text" class="form-control mb-30" name="last-name" id="name2" placeholder="Nom" required>
+                        <input type="text" class="form-control mb-30" name="last-name" id="name2" placeholder="Nom"
+                          required>
                       </div>
                     </div>
 
                     <div class="col-12 col-lg-6">
                       <div class="form-group">
-                        <input type="email" class="form-control mb-30" name="email" id="email" placeholder="E-mail" required>
+                        <input type="email" class="form-control mb-30" name="email" id="email" placeholder="E-mail"
+                          required>
                       </div>
                     </div>
 
@@ -837,13 +846,16 @@
         </div>
       </div>
       <div class="row">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.7678644096836!2d-7.568335585547669!3d33.55940715098882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda6332908d1d61b%3A0x569d5bec37f7f81a!2sENSAM%20CASABLANCA!5e0!3m2!1sfr!2sma!4v1648604696705!5m2!1sfr!2sma" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.7678644096836!2d-7.568335585547669!3d33.55940715098882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda6332908d1d61b%3A0x569d5bec37f7f81a!2sENSAM%20CASABLANCA!5e0!3m2!1sfr!2sma!4v1648604696705!5m2!1sfr!2sma"
+          width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
   </section>
   <?php include_once("footer.php");?>
 
-  
+
 </body>
 
 </html>

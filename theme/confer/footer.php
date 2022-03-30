@@ -81,6 +81,22 @@
           </div>
         </div>
       </div> -->
+      <div class="col-12 col-sm-6 col-lg-3">
+        <div class="single-footer-widget mb-60 wow fadeInUp" data-wow-delay="300ms">
+
+          <h5 class="widget-title">Gallery</h5>
+
+          <div class="footer-gallery">
+            <div class="row">
+            <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.7678644096836!2d-7.568335585547669!3d33.55940715098882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda6332908d1d61b%3A0x569d5bec37f7f81a!2sENSAM%20CASABLANCA!5e0!3m2!1sfr!2sma!4v1648604696705!5m2!1sfr!2sma"
+          width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
@@ -92,12 +108,7 @@
       <div class="col-12 col-md-6">
         <div class="copywrite-text">
           <p>
-            Copyright &copy;<script data-cfasync="false"
-              src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-            <script>
-              document.write(new Date().getFullYear());
-            </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
-              aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+            Copyright &copy; Ensam Casablanca All rights reserved | Made by Ciam Casablanca
           </p>
         </div>
       </div>
