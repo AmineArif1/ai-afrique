@@ -69,8 +69,8 @@
     <div class="container">
       <div class="row align-items-center">
 
-        <div class="col-12 col-md-6">
-          <div class="about-content-text mb-80">
+        <!-- <div class="col-12 col-md-6"> -->
+          <div class="about-content-text mb-80" style="text-align:center;">
             <h6 class="wow fadeInUp" data-wow-delay="300ms">Concernant la competition</h6>
             <h3 class="wow fadeInUp" data-wow-delay="300ms">Bienvenue à IA-Afrique 2022</h3>
             <p class="wow fadeInUp" data-wow-delay="300ms">Se veut un symposium annuel organisé par l’ENSAM-Casablanca
@@ -83,13 +83,7 @@
             <a href="index.php#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Inscription &
               Soumission </a>
           </div>
-        </div>
-
-        <div class="col-12 col-md-6">
-          <div class="about-thumb mb-80 wow fadeInUp" data-wow-delay="300ms">
-            <img src="img/res/robot-ai.jpg" alt="">
-          </div>
-        </div>
+        <!-- </div> -->
       </div>
     </div>
 
@@ -795,7 +789,7 @@
 
           <div class="contact_from_area mb-100 clearfix wow fadeInUp" data-wow-delay="300ms">
             <div class="contact_form">
-              <form action="mail.php" method="post" id="main_contact_form">
+              <form action="contact.php" method="post" id="main_contact_form">
                 <div class="contact_input_area">
                   <div id="success_fail_info"></div>
                   <div class="row">
