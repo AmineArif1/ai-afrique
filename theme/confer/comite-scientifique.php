@@ -4,8 +4,7 @@
 
 <body>
     <?php include("header.php");?>
-    <section class="our-speaker-area bg-img bg-gradient-overlay section-padding-100-60"
-        style="background-image: url(img/bg-img/3.jpg);">
+    <section class="our-speaker-area bg-img bg-gradient-overlay section-padding-100-60">
         <div class="container">
             <div class="row">
 

@@ -17,17 +17,15 @@
   <section class="welcome-area">
     <div class="welcome-slides owl-carousel">
 
-      <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/1.jpg);">
+      <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/latestest.png);">
         <div class="container h-100">
           <div class="row h-100 align-items-center">
 
             <div class="col-12">
               <div class="welcome-text text-right">
-                <h2 data-animation="fadeInUp" data-delay="300ms">Science <br>Conference</h2>
-                <h6 data-animation="fadeInUp" data-delay="500ms">Shangri-La Hotel, Bangkok, Bangkok, Thailand</h6>
+              
                 <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
-                  <a href="index.php#" class="btn confer-btn">More Information <i
-                      class="zmdi zmdi-long-arrow-right"></i></a>
+             
                 </div>
               </div>
             </div>
@@ -35,24 +33,17 @@
         </div>
       </div>
 
-      <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/45.jpg);">
+      <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/tkhrbi9a.png);">
         <div class="container h-100">
           <div class="row h-100 align-items-center">
 
             <div class="col-12">
               <div class="welcome-text-two text-center">
-                <h5 data-animation="fadeInUp" data-delay="100ms">The event consistently</h5>
-                <h2 data-animation="fadeInUp" data-delay="300ms">OSHA Compliance</h2>
+          
 
-                <div class="event-meta" data-animation="fadeInUp" data-delay="500ms">
-                  <a class="event-date" href="index.php#"><i class="zmdi zmdi-account"></i> January 14, 2019</a>
-                  <a class="event-author" href="index.php#"><i class="zmdi zmdi-alarm-check"></i> Laura Green</a>
-                </div>
+         
                 <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
-                  <a href="index.php#" class="btn confer-btn m-2">View more <i
-                      class="zmdi zmdi-long-arrow-right"></i></a>
-                  <a href="index.php#" class="btn confer-btn m-2">Get Tickets <i
-                      class="zmdi zmdi-long-arrow-right"></i></a>
+        
                 </div>
               </div>
             </div>
@@ -71,8 +62,9 @@
 
         <!-- <div class="col-12 col-md-6"> -->
           <div class="about-content-text mb-80" style="text-align:center;">
+          <h3 class="wow fadeInUp shit" data-wow-delay="300ms">Bienvenue à IA-Afrique 2022</h3>
             <h6 class="wow fadeInUp" data-wow-delay="300ms">Concernant la competition</h6>
-            <h3 class="wow fadeInUp" data-wow-delay="300ms">Bienvenue à IA-Afrique 2022</h3>
+            
             
             <p class="wow fadeInUp" data-wow-delay="300ms">Se veut un symposium annuel organisé par l’ENSAM-Casablanca
               en collaboration avec ses partenaires internationaux, notamment les établissements africains. Cet
@@ -138,14 +130,14 @@
   </section>
   <!-- End Section Soumission  -->
   <!-- Section Dates -->
-  <section class="our-schedule-area section-padding-100">
+  <section class="our-schedule-area2 section-padding-100">
     <div class="container">
       <div class="row">
 
         <div class="col-12">
-          <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
-            <p>Notre tableau du temp</p>
-            <h4>Dates clés et Program</h4>
+          <div  class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
+            <p style="color:white;">Notre tableau du temp</p>
+            <h4 style="color:white;">Dates clés et Program</h4>
           </div>
         </div>
       </div>
@@ -153,17 +145,7 @@
         <div class="col-12">
           <div class="schedule-tab">
 
-            <ul class="nav nav-tabs wow fadeInUp" data-wow-delay="300ms" id="conferScheduleTab" role="tablist">
-              <li class="nav-item">
-                <a class="nav-link active" id="monday-tab" data-toggle="tab" href="index.php#step-one" role="tab"
-                  aria-controls="step-one" aria-expanded="true">Wednesday <br> <span>June 29, 2022</span></a>
-              </li>
-
-              <li class="nav-item">
-                <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="index.php#step-two" role="tab"
-                  aria-controls="step-two" aria-expanded="true">Thursday<br> <span>June 30, 2022</span></a>
-              </li>
-            </ul>
+          
           </div>
 
           <div class="tab-content" id="conferScheduleTabContent">
@@ -184,18 +166,18 @@
                         </div>
 
                         <div class="single-schedule-info">
-                          <h6>Soumission d'articles et de projets</h6>
+                          <h6 style="color:white;">Soumission d'articles et de projets</h6>
                           <!-- <p>by <span>Gary Armstrong</span> / Ceo of Confer</p> -->
                         </div>
                       </div>
 
                       <div class="schedule-time-place">
-                        <p><i class="zmdi zmdi-time"></i> 01 Juin 2022</p>
-                        <p><i class="zmdi zmdi-map"></i> En ligne</p>
+                        <p style="color:white;"><i class="zmdi zmdi-time"></i> 01 Juin 2022</p>
+                        <p style="color:white;"><i class="zmdi zmdi-map"></i> En ligne</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
+                      
+
                     </div>
 
                     <div
@@ -209,18 +191,17 @@
                         </div>
 
                         <div class="single-schedule-info">
-                          <h6>Soumission des VF</h6>
+                          <h6 style="color:white;">Soumission des VF</h6>
                           <!-- <p>by <span>Amanda Hudson</span> / Ceo of Confer</p> -->
                         </div>
                       </div>
 
                       <div class="schedule-time-place">
-                        <p><i class="zmdi zmdi-time"></i> 10 Juin 2022</p>
-                        <p><i class="zmdi zmdi-map"></i> En ligne</p>
+                        <p style="color:white;"><i class="zmdi zmdi-time"></i> 10 Juin 2022</p>
+                        <p style="color:white;"><i class="zmdi zmdi-map"></i> En ligne</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
+                      
                     </div>
 
                     <div
@@ -234,18 +215,16 @@
                         </div>
 
                         <div class="single-schedule-info">
-                          <h6>Inscription</h6>
+                          <h6 style="color:white;">Inscription</h6>
                           <!-- <p>by <span>Martha Burke</span> / Ceo of Confer</p> -->
                         </div>
                       </div>
 
                       <div class="schedule-time-place">
-                        <p><i class="zmdi zmdi-time"></i> 18 Juin 2022</p>
-                        <p><i class="zmdi zmdi-map"></i> En ligne</p>
+                        <p style="color:white;"><i class="zmdi zmdi-time"></i> 18 Juin 2022</p>
+                        <p style="color:white;"><i class="zmdi zmdi-map"></i> En ligne</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
                     </div>
 
                     <div
@@ -259,18 +238,17 @@
                         </div>
 
                         <div class="single-schedule-info">
-                          <h6>Symposium</h6>
+                          <h6 style="color:white;">Symposium</h6>
                           <!-- <p>by <span>Jeffrey Morales</span> / Ceo of Confer</p> -->
                         </div>
                       </div>
 
                       <div class="schedule-time-place">
-                        <p><i class="zmdi zmdi-time"></i> 29-30 Juin 2022</p>
-                        <p><i class="zmdi zmdi-map"></i> Ensam Casablanca, Morocco</p>
+                        <p style="color:white;"><i class="zmdi zmdi-time"></i> 29-30 Juin 2022</p>
+                        <p style="color:white;"><i class="zmdi zmdi-map"></i> Ensam Casablanca, Morocco</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
+                     
                     </div>
                   </div>
 
@@ -309,8 +287,7 @@
                         <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
+                     
                     </div>
 
                     <div
@@ -334,8 +311,7 @@
                         <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
+                   
                     </div>
 
                     <div
@@ -359,8 +335,7 @@
                         <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
+                   
                     </div>
                   </div>
 
@@ -399,8 +374,7 @@
                         <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
+                  
                     </div>
 
                     <div
@@ -424,8 +398,7 @@
                         <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                       </div>
 
-                      <a href="index.php#" class="btn confer-btn">View More <i
-                          class="zmdi zmdi-long-arrow-right"></i></a>
+                     
                     </div>
                   </div>
 
@@ -576,6 +549,9 @@
               <a href="index.php#"><img src="img/res/logos/institut burkinabe.png" alt=""></a>
             </div>
             <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
+              <a href="index.php#"><img src="img/res/logos/white.jpg" alt=""></a>
+            </div>
+            <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
               <a href="index.php#"><img src="img/res/logos/Logo_ENIB_2012.png" alt=""></a>
             </div>
             <div class="single-sponsor wow fadeInUp" data-wow-delay="300ms">
@@ -584,6 +560,8 @@
 
           </div>
         </div>
+
+     
         <!-- Some train of text going under the sponsors -->
         <!-- <div class="col-12">
           <div class="our-client-area mt-100 wow fadeInUp" data-wow-delay="300ms">
