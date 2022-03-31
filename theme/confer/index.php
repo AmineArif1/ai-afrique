@@ -795,7 +795,7 @@
 
           <div class="contact_from_area mb-100 clearfix wow fadeInUp" data-wow-delay="300ms">
             <div class="contact_form">
-              <form action="https://preview.colorlib.com/theme/confer/mail.php" method="post" id="main_contact_form">
+              <form action="mail.php" method="post" id="main_contact_form">
                 <div class="contact_input_area">
                   <div id="success_fail_info"></div>
                   <div class="row">

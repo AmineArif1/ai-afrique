@@ -32,7 +32,8 @@
 
           <div class="contact_from_area mb-100 clearfix wow fadeInUp" data-wow-delay="300ms">
             <div class="contact_form">
-              <form action="https://preview.colorlib.com/theme/confer/mail.php" method="post" id="main_contact_form">
+
+              <form action="mail.php" method="post" id="main_contact_form">
                 <div class="contact_input_area">
                   <div id="success_fail_info"></div>
                   <div class="row">
@@ -67,14 +68,14 @@
 
                     <div class="col-12 col-lg-6">
                       <div class="form-group">
-                        <input type="text" class="form-control mb-30" name="number" id="subject"
+                        <input type="text" class="form-control mb-30" name="ville" id="subject"
                           placeholder="Ville*" required>
                       </div>
                     </div>
                     
                     <div class="col-12 col-lg-6">
                       <div class="form-group">
-                        <input type="text" class="form-control mb-30" name="number" id="subject"
+                        <input type="text" class="form-control mb-30" name="pays" id="subject"
                           placeholder="Pays*" required>
                       </div>
                     </div>

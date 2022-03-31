@@ -21,7 +21,7 @@
           </div>
         </div>
       </div>
-
+      <div class="col-12 col-sm-6 col-lg-3">      </div>
       <div class="col-12 col-sm-6 col-lg-3">
         <div class="single-footer-widget mb-60 wow fadeInUp" data-wow-delay="300ms">
 
@@ -112,15 +112,15 @@
           </p>
         </div>
       </div>
-
-      <div class="col-12 col-md-6">
+    <!-- Terms or stg Idk Idc -->
+      <!-- <div class="col-12 col-md-6">
         <div class="footer-menu">
           <ul class="nav">
             <li><a href="index.php#"><i class="zmdi zmdi-circle"></i> Terms of Service</a></li>
             <li><a href="index.php#"><i class="zmdi zmdi-circle"></i> Privacy Policy</a></li>
           </ul>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
