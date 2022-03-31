@@ -14,7 +14,7 @@
 
 
   <!-- Section Welcome -->
-  <section class="welcome-area" style="height:600px">
+  <section class="welcome-area">
     <div class="welcome-slides owl-carousel">
 
       <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/1.jpg);">
