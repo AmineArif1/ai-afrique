@@ -14,7 +14,7 @@
 
 
   <!-- Section Welcome -->
-  <section class="welcome-area">
+  <section class="welcome-area" style="height:600px">
     <div class="welcome-slides owl-carousel">
 
       <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/1.jpg);">
@@ -71,8 +71,9 @@
 
         <!-- <div class="col-12 col-md-6"> -->
           <div class="about-content-text mb-80" style="text-align:center;">
-            <h6 class="wow fadeInUp" data-wow-delay="300ms">Concernant la competition</h6>
             <h3 class="wow fadeInUp" data-wow-delay="300ms">Bienvenue à IA-Afrique 2022</h3>
+            
+            <h6 class="wow fadeInUp" data-wow-delay="300ms">Concernant la competition</h6>
             <p class="wow fadeInUp" data-wow-delay="300ms">Se veut un symposium annuel organisé par l’ENSAM-Casablanca
               en collaboration avec ses partenaires internationaux, notamment les établissements africains. Cet
               événement, étalé sur deux journées, permettra aux différents acteurs de l’intelligence artifcielle de
