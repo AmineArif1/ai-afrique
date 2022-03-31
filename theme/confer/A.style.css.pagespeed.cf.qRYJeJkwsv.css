@@ -179,7 +179,7 @@ img.mfp-img {
 
 button.mfp-close,
 button.mfp-arrow {
-  background: #df42b1
+  background: #ffffff
 }
 
 .mfp-bottom-bar {
@@ -587,7 +587,7 @@ input:required {
 #scrollUp:focus,
 #scrollUp:hover {
   background-color: #000;
-  color: #fff
+  color: rgb(0, 0, 0)
 }
 
 .btn:focus {
@@ -607,7 +607,7 @@ input:required {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: .5px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   border-radius: 23px;
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
@@ -629,9 +629,9 @@ input:required {
   top: -10%;
   left: -10%;
   content: '';
-  background: #df42b1;
-  background-image: -webkit-linear-gradient(120deg, #505add 0%, #df42b1 100%);
-  background-image: -ms-linear-gradient(120deg, #505add 0%, #df42b1 100%);
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(120deg, #ffffff 0%, #efefef 100%);
+  background-image: -ms-linear-gradient(120deg, #efefef 0%, #ffffff 100%);
   z-index: -2
 }
 
@@ -639,7 +639,7 @@ input:required {
 .confer-btn:hover {
   font-weight: 500;
   background-color: #fff;
-  color: #111343 !important;
+  color: #ececec !important;
   -webkit-box-shadow: 0 2px 40px 8px rgba(15, 15, 15, .15);
   box-shadow: 0 2px 40px 8px rgba(15, 15, 15, .15)
 }
@@ -707,7 +707,7 @@ input:required {
   font-weight: 500;
   -webkit-box-shadow: 0 2px 40px 8px rgba(15, 15, 15, .15);
   box-shadow: 0 2px 40px 8px rgba(15, 15, 15, .15);
-  background-color: #df42b1;
+  background-color: #ffffff;
   color: #fff
 }
 
@@ -735,8 +735,8 @@ input:required {
 
 .confer-btn-white:hover,
 .confer-btn-white:focus {
-  background-color: #df42b1;
-  border-color: #df42b1;
+  background-color: #ffffff;
+  border-color: #ffffff;
   color: #fff
 }
 
@@ -764,9 +764,9 @@ input:required {
 
 .confer-btn-white-2:hover,
 .confer-btn-white-2:focus {
-  background-color: #df42b1;
-  border-color: #df42b1;
-  color: #fff
+  background-color: #181616;
+  border-color: #000000;
+  color: rgb(7, 7, 7)
 }
 
 .confer-gb-btn {
@@ -798,9 +798,9 @@ input:required {
   top: -10%;
   left: -10%;
   content: '';
-  background: #df42b1;
-  background-image: -webkit-linear-gradient(120deg, #505add 0%, #df42b1 100%);
-  background-image: -ms-linear-gradient(120deg, #505add 0%, #df42b1 100%);
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(120deg, #eeeef3 0%, #f9f9f9 100%);
+  background-image: -ms-linear-gradient(120deg, #ffffff 0%, #ffffff 100%);
   z-index: -2
 }
 
@@ -861,7 +861,7 @@ input:required {
 
 .classy-nav-container .classy-navbar .classynav ul li a:hover,
 .classy-nav-container .classy-navbar .classynav ul li a:focus {
-  color: #df42b1
+  color: #ffffff
 }
 
 @media only screen and (min-width:992px) and (max-width:1199px) {
@@ -878,7 +878,7 @@ input:required {
 
   .classy-nav-container .classy-navbar .classynav ul li a:hover,
   .classy-nav-container .classy-navbar .classynav ul li a:focus {
-    color: #df42b1
+    color: #ffffff
   }
 }
 
@@ -1542,13 +1542,13 @@ input:required {
 
 .copywrite-content .footer-menu .nav li a:hover,
 .copywrite-content .footer-menu .nav li a:focus {
-  color: #fff
+  color: rgb(19, 18, 18)
 }
 
 .about-us-countdown-area {
   position: relative;
   z-index: 1;
-  background-color: #151853
+  background-color: #ffffff
 }
 
 .about-us-countdown-area .about-content-text h6 {
@@ -1565,7 +1565,7 @@ input:required {
 
 .about-us-countdown-area .about-content-text h3 {
   font-size: 40px;
-  color: #fff;
+  color: rgb(21, 21, 21);
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 20px
@@ -1590,7 +1590,7 @@ input:required {
 }
 
 .about-us-countdown-area .about-content-text p {
-  color: #fff
+  color: rgb(7, 7, 7)
 }
 
 .single-we-offer-content {
@@ -1610,7 +1610,7 @@ input:required {
   margin: auto;
   height: 115px;
   width: 115px;
-  background: #c63fa4;
+  background: #3f3fc6;
   background-image: -moz-linear-gradient(120deg, #df42b1 0%, #505add 100%);
   background-image: -webkit-linear-gradient(120deg, #df42b1 0%, #505add 100%);
   background-image: -ms-linear-gradient(120deg, #df42b1 0%, #505add 100%);
@@ -1632,10 +1632,10 @@ input:required {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  background: #c63fa4;
-  background-image: -moz-linear-gradient(120deg, #df42b1 0%, #505add 100%);
-  background-image: -webkit-linear-gradient(120deg, #df42b1 0%, #505add 100%);
-  background-image: -ms-linear-gradient(120deg, #df42b1 0%, #505add 100%);
+  background: #3f43c6;
+  background-image: -moz-linear-gradient(120deg, #5a42df 0%, #505add 100%);
+  background-image: -webkit-linear-gradient(120deg, #4a42df 0%, #505add 100%);
+  background-image: -ms-linear-gradient(120deg, #4242df 0%, #505add 100%);
   z-index: -10
 }
 
@@ -1664,7 +1664,7 @@ input:required {
 .single-we-offer-content:hover p,
 .single-we-offer-content:focus h5,
 .single-we-offer-content:focus p {
-  color: #fff
+  color: rgb(3, 3, 3)
 }
 
 .single-we-offer-content:hover .offer-icon::after,
@@ -1734,7 +1734,7 @@ input:required {
 
 .about-us-countdown-area .countdown-up-area .countdown-content-text h4 {
   font-size: 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   letter-spacing: 1px;
   text-transform: uppercase;
   margin-bottom: 0
@@ -1762,7 +1762,7 @@ input:required {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  color: #fff
+  color: rgb(0, 0, 0)
 }
 
 .about-us-countdown-area .countdown-up-area .countdown-timer #clock div {
@@ -1771,7 +1771,7 @@ input:required {
   padding: 20px 5px;
   width: 20%;
   margin: 0 15px;
-  border: 2px solid rgba(255, 255, 255, .15);
+  border: 2px solid rgba(0, 0, 0, 0.15);
   text-align: center;
   line-height: 1
 }
@@ -1806,7 +1806,7 @@ input:required {
 .about-us-countdown-area .countdown-up-area .countdown-timer #clock div span {
   margin-top: 5px;
   font-size: 18px;
-  color: #5d5e8d;
+  color: #000000;
   font-weight: 500;
   display: block
 }
@@ -1903,7 +1903,7 @@ input:required {
 .single-speaker-area .social-info a {
   display: block;
   font-size: 18px;
-  color: #fff;
+  color: rgb(12, 12, 12);
   margin-bottom: 5px
 }
 
@@ -2222,8 +2222,8 @@ input:required {
 .blog-btn a {
   height: 51px;
   width: 51px;
-  background-image: -webkit-linear-gradient(120deg, #505add 0%, #df42b1 100%);
-  background-image: -ms-linear-gradient(120deg, #505add 0%, #df42b1 100%);
+  background-image: -webkit-linear-gradient(120deg, #c7c7c7 0%, #ffffff 100%);
+  background-image: -ms-linear-gradient(120deg, #ffffff 0%, #ffffff 100%);
   text-align: center;
   border: 2px solid #fff;
   border-radius: 50%;
@@ -3161,7 +3161,7 @@ input:required {
 .our-schedule-area {
   position: relative;
   z-index: 1;
-  background-color: #151853
+  background-color: #000000
 }
 
 .our-schedule-area .schedule-tab {
@@ -3264,7 +3264,7 @@ input:required {
 
 .single-schedule-area:hover,
 .single-schedule-area:focus {
-  border-color: #df42b1
+  border-color: #e8e8e8
 }
 
 .single-schedule-area .single-schedule-tumb-info {
@@ -3631,7 +3631,7 @@ input:required {
 .our-sponsor-client-area {
   position: relative;
   z-index: 1;
-  background-color: #151853
+  background-color: #ffffff
 }
 
 .our-sponsor-area {
@@ -3641,7 +3641,7 @@ input:required {
 }
 
 .our-sponsor-area .single-sponsor {
-  border: 1px solid #444675;
+  
   -webkit-box-flex: 0;
   -ms-flex: 0 0 25%;
   flex: 0 0 25%;
@@ -3684,7 +3684,7 @@ input:required {
   -o-transition-duration: 300ms;
   transition-duration: 300ms;
   max-height: 110px;
-  opacity: .5
+  opacity: .8
 }
 
 @media only screen and (min-width:992px) and (max-width:1199px) {
